@@ -1,0 +1,10 @@
+ This book explains JavaScript from the bottom up. This means that we start with low
+level details like comments, identifiers, variables, and types; then build to expressions,
+ statements, objects, and functions; and then cover high-level language abstractions
+ like classes and modules. I take the word definitive in the title of this book seriously,
+ and the coming chapters explain the language at a level of detail that may feel off
+putting at first. True mastery of JavaScript requires an understanding of the details,
+ however, and I hope that you will make time to read this book cover to cover. But
+ please don’t feel that you need to do that on your first reading. If you find yourself
+ feeling bogged down in a section, simply skip to the next. You can come back and
+ master the details once you have a working knowledge of the language as a whole.
